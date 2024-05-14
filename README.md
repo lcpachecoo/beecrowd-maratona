@@ -1,1 +1,1 @@
-# vjudge-iniciante-beecrowd
+# beecrowd
