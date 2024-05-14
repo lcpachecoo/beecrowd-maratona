@@ -1,1 +1,1 @@
-# beecrowd-maratona
+# vjudge-iniciante-beecrowd
